@@ -1,2 +1,2 @@
 # Face_anonymizer
- blur the faces
+ blur the faces in any video, image or live webcam 
