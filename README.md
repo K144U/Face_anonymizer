@@ -1,3 +1,4 @@
 # Face_anonymizer
  blur the faces in any video, image or live webcam 
-![Uploading {DDB547C0-7B07-4527-B663-AA2C9AFC9829}.png…]()
+
+![loading image](<img width="638" height="476" alt="image" src="https://github.com/user-attachments/assets/e4085b95-4d6a-49e0-a9a1-932c43fad103" />)
